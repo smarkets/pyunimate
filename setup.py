@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='unimate-python',
+    name='unimate',
     version='1.0',
     description='Python Unimate client',
     license='MIT',
